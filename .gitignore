@@ -1,7 +1,10 @@
-__pycache__
-env_nu
-hidden
-Include
-Lib\site-packages
-share
+__pycache__/
+env_nu/
+hidden/
+Include/
+Lib/
+share/
+
+cookies.pkl
 pyvenv.cfg
+output.xlsx
